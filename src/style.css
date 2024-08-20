@@ -105,6 +105,7 @@ p {
 
 .list-box .list-item-first {
   background-color: #C0FCFA;
+  border-radius: 6px;
 }
 
 .list-item {
@@ -113,7 +114,6 @@ p {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-radius: 6px;
   border-bottom: 3px solid #C0FCFA;
 }
 
